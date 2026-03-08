@@ -1,5 +1,7 @@
 # 💳 Credit Risk Analysis – MySQL & Power BI
 
+![Credit Risk Dashboard](images/credit_risk_dashboard.png)
+
 This project focuses on analyzing customer credit risk using SQL-based rule logic and visualizing insights with Power BI.
 
 The goal is to identify risk patterns, detect inconsistencies in credit decisions, and support data-driven risk management.
